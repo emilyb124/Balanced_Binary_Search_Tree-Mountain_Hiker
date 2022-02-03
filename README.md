@@ -1,6 +1,6 @@
 # Balanced_Binary_Search_Tree-Mountain_Hiker
 Self Balancing Binary Search Tree - Mountain Hiker
-_Note: This is a Data Structures class project, assigned by Professor Joanna Klukowska, NYU._
+_Note: This is a Data Structures 2021 class project, assigned by Professor Joanna Klukowska, NYU._
 
 This is an object oriented program, that uses implimentation of a self balancing binary search tree (AVL)
 to print out survivable paths down a mountain.
